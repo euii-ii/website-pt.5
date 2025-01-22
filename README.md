@@ -1,1 +1,22 @@
 # website-pt.5
+Welcome to the 3D Website project! This repository contains the code for an interactive 3D website built using HTML, CSS, and JavaScript. The project demonstrates modern web development techniques and utilizes 3D transformations and animations to create an immersive user experience.
+
+Features
+
+Smooth Animations: Seamless transitions and animations for an aesthetically pleasing UI.
+
+Responsive Design: Fully responsive layout to ensure compatibility with all devices.
+
+Customizable Components: Easy to tweak styles and scripts for personalization.
+
+Modern UI/UX: Designed with user experience in mind.
+
+Technologies Used
+
+HTML: The structure and layout of the website.
+
+CSS: Styling, including 3D transformations, animations, and responsiveness.
+
+JavaScript: Interactivity, event handling, and dynamic behavior.
+
+Installation
