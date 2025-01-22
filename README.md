@@ -20,3 +20,26 @@ CSS: Styling, including 3D transformations, animations, and responsiveness.
 JavaScript: Interactivity, event handling, and dynamic behavior.
 
 Installation
+
+Follow these steps to get a local copy up and running:
+
+Clone the Repository
+
+Copy code
+
+
+Navigate to the Project Directory
+
+Copy code
+
+cd 3d-website  
+
+Open the Project
+
+Open index.html in your browser to view the website.
+
+
+📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
