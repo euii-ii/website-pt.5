@@ -26,7 +26,7 @@ Follow these steps to get a local copy up and running:
 Clone the Repository
 
 Copy code
-
+https://github.com/euii-ii/website-pt.5.git
 
 Navigate to the Project Directory
 
